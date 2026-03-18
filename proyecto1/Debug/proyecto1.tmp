@@ -1,0 +1,159 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\Debug\proyecto1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>proyecto1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>proyecto1.map</FILE>
+  <FILE>proyecto1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <digito><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>21</LINE></digito>
+  <mode><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>22</LINE></mode>
+  <alarma_mins_decenas><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>23</LINE></alarma_mins_decenas>
+  <alarma_mins_unidades><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>24</LINE></alarma_mins_unidades>
+  <alarma_hrs_decenas><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>25</LINE></alarma_hrs_decenas>
+  <alarma_hrs_unidades><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>26</LINE></alarma_hrs_unidades>
+  <alarma_flag><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>27</LINE></alarma_flag>
+  <parpadeo_dp><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>28</LINE></parpadeo_dp>
+  <START><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>48</LINE></START>
+  <ISR_BOTONES><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>208</LINE></ISR_BOTONES>
+  <ISR_TIMER1><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>761</LINE></ISR_TIMER1>
+  <IRS_TIMER0><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>943</LINE></IRS_TIMER0>
+  <SETUP><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>58</LINE></SETUP>
+  <Table7seg><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>162</LINE></Table7seg>
+  <MAIN_LOOP><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>200</LINE></MAIN_LOOP>
+  <BOTONES_INC_O_DEC><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>240</LINE></BOTONES_INC_O_DEC>
+  <MODO><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>226</LINE></MODO>
+  <FIN_ISR_BOTONES><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>751</LINE></FIN_ISR_BOTONES>
+  <NO_OVERFLOW_MODOS><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>235</LINE></NO_OVERFLOW_MODOS>
+  <NO_MODO_HORA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>247</LINE></NO_MODO_HORA>
+  <NO_MODO_FECHA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>253</LINE></NO_MODO_FECHA>
+  <CONFIG_HORA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>263</LINE></CONFIG_HORA>
+  <NO_CONFIG_FECHA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>259</LINE></NO_CONFIG_FECHA>
+  <CONFIG_FECHA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>398</LINE></CONFIG_FECHA>
+  <CONFIG_ALARMA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>582</LINE></CONFIG_ALARMA>
+  <REVISA_INC_HORAS><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>269</LINE></REVISA_INC_HORAS>
+  <DEC_HORAS><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>288</LINE></DEC_HORAS>
+  <REVISA_DEC_MINS><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>275</LINE></REVISA_DEC_MINS>
+  <INC_HORAS><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>320</LINE></INC_HORAS>
+  <REVISA_INC_MINS><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>281</LINE></REVISA_INC_MINS>
+  <DEC_MINS><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>353</LINE></DEC_MINS>
+  <INC_MINS><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>376</LINE></INC_MINS>
+  <DEC_HORAS_NORMAL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>298</LINE></DEC_HORAS_NORMAL>
+  <SOLO_DEC_UNIDADES_H><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>315</LINE></SOLO_DEC_UNIDADES_H>
+  <SIGUE_1><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>306</LINE></SIGUE_1>
+  <SIGUE_2><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>310</LINE></SIGUE_2>
+  <INC_HORAS_NORMAL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>330</LINE></INC_HORAS_NORMAL>
+  <AJUSTE_24H><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>338</LINE></AJUSTE_24H>
+  <SIGUE_3><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>342</LINE></SIGUE_3>
+  <SIGUE_4><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>346</LINE></SIGUE_4>
+  <DEC_MINS_NORMAL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>363</LINE></DEC_MINS_NORMAL>
+  <SOLO_DEC_UNIDADES_M><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>371</LINE></SOLO_DEC_UNIDADES_M>
+  <INC_MINS_NORMAL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>386</LINE></INC_MINS_NORMAL>
+  <SIGUE_5><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>391</LINE></SIGUE_5>
+  <REVISA_INC_DIA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>403</LINE></REVISA_INC_DIA>
+  <DEC_DIA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>419</LINE></DEC_DIA>
+  <REVISA_DEC_MES><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>408</LINE></REVISA_DEC_MES>
+  <INC_DIA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>441</LINE></INC_DIA>
+  <REVISA_INC_MES><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>413</LINE></REVISA_INC_MES>
+  <DEC_MES><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>463</LINE></DEC_MES>
+  <INC_MES><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>493</LINE></INC_MES>
+  <DEC_DIA_NORMAL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>429</LINE></DEC_DIA_NORMAL>
+  <GET_MAX_DIA_MES><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>521</LINE></GET_MAX_DIA_MES>
+  <SOLO_DEC_DIA_UNIDADES><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>436</LINE></SOLO_DEC_DIA_UNIDADES>
+  <INC_DIA_NORMAL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>452</LINE></INC_DIA_NORMAL>
+  <SIGUE_6><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>457</LINE></SIGUE_6>
+  <DEC_MES_NORMAL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>472</LINE></DEC_MES_NORMAL>
+  <AJUSTAR_DIA_ACTUAL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>489</LINE></AJUSTAR_DIA_ACTUAL>
+  <SOLO_DEC_MES_UNIDADES><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>479</LINE></SOLO_DEC_MES_UNIDADES>
+  <CORREGIR_MES_INVALIDO><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>482</LINE></CORREGIR_MES_INVALIDO>
+  <VERIFICAR_DIA_MES><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>559</LINE></VERIFICAR_DIA_MES>
+  <INC_MES_NORMAL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>502</LINE></INC_MES_NORMAL>
+  <AJUSTAR_DIA_SEGUN_MES><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>517</LINE></AJUSTAR_DIA_SEGUN_MES>
+  <VALIDAR_MES_10_12><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>509</LINE></VALIDAR_MES_10_12>
+  <MES_10_12><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>536</LINE></MES_10_12>
+  <MES_FEBRERO><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>543</LINE></MES_FEBRERO>
+  <MES_30><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>548</LINE></MES_30>
+  <MES_31><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>553</LINE></MES_31>
+  <SEGUIR_9><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>564</LINE></SEGUIR_9>
+  <SEGUIR_10><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>567</LINE></SEGUIR_10>
+  <DIA_INVALIDO><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>576</LINE></DIA_INVALIDO>
+  <SEGUIR_11><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>571</LINE></SEGUIR_11>
+  <SEGUIR_12><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>574</LINE></SEGUIR_12>
+  <REVISA_INC_HORA_AL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>587</LINE></REVISA_INC_HORA_AL>
+  <DEC_HORA_ALARMA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>603</LINE></DEC_HORA_ALARMA>
+  <REVISA_DEC_MIN_AL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>592</LINE></REVISA_DEC_MIN_AL>
+  <INC_HORA_ALARMA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>647</LINE></INC_HORA_ALARMA>
+  <REVISA_INC_MIN_AL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>597</LINE></REVISA_INC_MIN_AL>
+  <DEC_MIN_ALARMA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>693</LINE></DEC_MIN_ALARMA>
+  <INC_MIN_ALARMA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>723</LINE></INC_MIN_ALARMA>
+  <DEC_HORA_AL_NORMAL_L><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>616</LINE></DEC_HORA_AL_NORMAL_L>
+  <SOLO_DEC_UNI_HORA_AL_L><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>641</LINE></SOLO_DEC_UNI_HORA_AL_L>
+  <REVISA_UNIDADES_29_AL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>630</LINE></REVISA_UNIDADES_29_AL>
+  <CORRIGE_29_A_23_AL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>636</LINE></CORRIGE_29_A_23_AL>
+  <INC_HORA_AL_NORMAL_L><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>659</LINE></INC_HORA_AL_NORMAL_L>
+  <OVERFLOW_UNIDADES_HORA_AL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>667</LINE></OVERFLOW_UNIDADES_HORA_AL>
+  <AJUSTE_24H_AL_L><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>674</LINE></AJUSTE_24H_AL_L>
+  <REVISA_24H_UNIDADES_AL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>680</LINE></REVISA_24H_UNIDADES_AL>
+  <CORRIGE_24_A_00_AL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>686</LINE></CORRIGE_24_A_00_AL>
+  <DEC_MIN_AL_NORMAL_L><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>706</LINE></DEC_MIN_AL_NORMAL_L>
+  <SOLO_DEC_UNI_MIN_AL_L><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>717</LINE></SOLO_DEC_UNI_MIN_AL_L>
+  <INC_MIN_AL_NORMAL_L><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>735</LINE></INC_MIN_AL_NORMAL_L>
+  <OVERFLOW_UNIDADES_MIN_AL><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>743</LINE></OVERFLOW_UNIDADES_MIN_AL>
+  <NO_SONANDO_ALARMA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>772</LINE></NO_SONANDO_ALARMA>
+  <NO_CONFIG_HORA_LED><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>777</LINE></NO_CONFIG_HORA_LED>
+  <NO_CONFIG_FECHA_LED><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>781</LINE></NO_CONFIG_FECHA_LED>
+  <NO_CONFIG_ALARMA_LED><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>786</LINE></NO_CONFIG_ALARMA_LED>
+  <CONTINUAR_1><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>795</LINE></CONTINUAR_1>
+  <fin_isr_timer1><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>929</LINE></fin_isr_timer1>
+  <NO_ALARMA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>817</LINE></NO_ALARMA>
+  <ALARMA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>813</LINE></ALARMA>
+  <CONTINUAR_2><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>821</LINE></CONTINUAR_2>
+  <CONTINUAR_3><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>827</LINE></CONTINUAR_3>
+  <CONTINUAR_4><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>833</LINE></CONTINUAR_4>
+  <no_overflow_24_hrs><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>923</LINE></no_overflow_24_hrs>
+  <CONTINUAR_5><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>837</LINE></CONTINUAR_5>
+  <NOV_O_DIC><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>865</LINE></NOV_O_DIC>
+  <CHECK_OVERFLOW_31><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>893</LINE></CHECK_OVERFLOW_31>
+  <CHECK_OVERFLOW_FEB><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>873</LINE></CHECK_OVERFLOW_FEB>
+  <CHECK_OVERFLOW_30><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>883</LINE></CHECK_OVERFLOW_30>
+  <CHECK_OVERFLOW_DIC><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>903</LINE></CHECK_OVERFLOW_DIC>
+  <CHECK_OVERFLOW_UNIDADES><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>914</LINE></CHECK_OVERFLOW_UNIDADES>
+  <MOSTRAR_HORA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>973</LINE></MOSTRAR_HORA>
+  <MOSTRAR_FECHA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>1007</LINE></MOSTRAR_FECHA>
+  <MOSTRAR_ALARMA><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>1042</LINE></MOSTRAR_ALARMA>
+  <DIGITO_1_H><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>984</LINE></DIGITO_1_H>
+  <DIGITO_2_H><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>990</LINE></DIGITO_2_H>
+  <DIGITO_3_H><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>996</LINE></DIGITO_3_H>
+  <DIGITO_4_H><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>1002</LINE></DIGITO_4_H>
+  <LOAD_SEGMENTO><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>1073</LINE></LOAD_SEGMENTO>
+  <DIGITO_1_F><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>1018</LINE></DIGITO_1_F>
+  <DIGITO_2_F><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>1024</LINE></DIGITO_2_F>
+  <DIGITO_3_F><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>1030</LINE></DIGITO_3_F>
+  <DIGITO_4_F><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>1036</LINE></DIGITO_4_F>
+  <DIGITO_1_A><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>1052</LINE></DIGITO_1_A>
+  <DIGITO_2_A><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>1057</LINE></DIGITO_2_A>
+  <DIGITO_3_A><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>1062</LINE></DIGITO_3_A>
+  <DIGITO_4_A><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>1067</LINE></DIGITO_4_A>
+  <ENCENDER_DP><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>1093</LINE></ENCENDER_DP>
+  <APAGAR_DP><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>1100</LINE></APAGAR_DP>
+  <CONT_DP><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>1103</LINE></CONT_DP>
+  <FIN_ISR_TIMER0><FILE>C:\Users\paula\OneDrive\Desktop\2026\SEMESTRE 1\Progra de micros\proyecto1\proyecto1\main.asm</FILE><LINE>1109</LINE></FIN_ISR_TIMER0>
+ </LABELS>
+</ASSEMBLER_INFO>
